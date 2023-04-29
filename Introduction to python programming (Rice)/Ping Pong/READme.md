@@ -27,7 +27,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### The video of  game :
 
 
-[![Alt Text](https://img.youtube.com/NjcRBc38N4I/0.jpg)](https://www.youtube.com/watch?v=NjcRBc38N4I)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NjcRBc38N4I/0.jpg)](https://www.youtube.com/watch?v=NjcRBc38N4I)
+
 
 #### YouTube link : https://youtu.be/NjcRBc38N4I.
 
