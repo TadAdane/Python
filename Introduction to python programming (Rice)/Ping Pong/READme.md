@@ -12,7 +12,7 @@ This is a classic arcade game of Pong implemented using Python's SimpleGUI modul
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-1. Clone this repository using `git clone https://github.com/your_username/pong-game.git`
+1. Clone this repository using `git clone https://github.com/TadAdane/pong-game.git`
 2. Install the required Python modules using `pip install -r requirements.txt`
 3. Run the game using `python pong.py`
 
